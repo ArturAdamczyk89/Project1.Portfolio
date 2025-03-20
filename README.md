@@ -2,7 +2,7 @@
 
 A clean, responsive personal portfolio website showcasing my skills, projects, and contact information. Built with HTML, CSS, and FontAwesome icons.
 
-![Portfolio Website Screenshot](assets/images/screenshot.png)
+![Portfolio Website Screenshot](<Portfolio Website Screenshot.jpg>)
 
 ## Live Demo
 
@@ -66,20 +66,20 @@ The website was built with a mobile-first approach, ensuring it looks and functi
 ### HTML Validation
 The HTML code was validated using the [Minify HTML Validator](https://www.minifier.org/html-validator).
 
-    ![validator image](HTML Validator.jpg)
+    HTML Validator.jpg
 
 As indicated in the html validator. No errors were found.
 
 ### CSS Validation
 The CSS code was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 
-    ![validator image](CSS Validator result.jpg)
+    CSS Validator result.jpg
 
 As indicated in the CSS validator. No errors were found.
 
 ### Lighthouse Test
 
-    ![lighthouse test](<Lighthouse Test.jpg>)
+    Lighthouse Test.jpg
 
 These scores indicate that the website is well-optimized for performance and user experience, with excellent accessibility features and search engine optimization.
 
@@ -99,7 +99,7 @@ These scores indicate that the website is well-optimized for performance and use
 
 ## Contact
 
-    artur.adamczyk89@gmail.com
+artur.adamczyk89@gmail.com
 
 
 ---
