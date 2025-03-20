@@ -64,24 +64,25 @@ The website was built with a mobile-first approach, ensuring it looks and functi
 ## Testing
 
 ### HTML Validation
-    The HTML code was validated using the [Minify HTML Validator](https://www.minifier.org/html-validator).
+
+The HTML code was validated using the [Minify HTML Validator](https://www.minifier.org/html-validator).
 
 ![HTML Validator](<HTML Validator.jpg>)
 
-    As indicated in the html validator. No errors were found.
+As indicated in the html validator. No errors were found.
 
 ### CSS Validation
     The CSS code was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 
 ![CSS Validator](<CSS Validator result.jpg>)
 
-    As indicated in the CSS validator. No errors were found.
+As indicated in the CSS validator. No errors were found.
 
 ### Lighthouse Test
 
 ![Lighthouse Test](<Lighthouse Test.jpg>)
 
-    These scores indicate that the website is well-optimized for performance and user experience, with excellent accessibility features and search engine optimization.
+These scores indicate that the website is well-optimized for performance and user experience, with excellent accessibility features and search engine optimization.
 
 ## Future Enhancements
 
